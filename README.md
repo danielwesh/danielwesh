@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Waweru</h1>
 <h3 align="center">A passionate Full Stack Developer from Kenya</h3>
+ <img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>">
 
 <p align="left"> <a href="https://twitter.com/daniel_wesh" target="blank"><img src="https://img.shields.io/twitter/follow/daniel_wesh?logo=twitter&style=for-the-badge" alt="daniel_wesh" /></a> </p>
 
