@@ -9,8 +9,12 @@
 
 - 📫 How to reach me **daniel.waweru@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+
+https://github.com/danielwesh/danielwesh/blob/main/codingguy.gif
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://twitter.com/" height="30" width="40" /></a>
 <a href="https://dev.to/@daniel_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@daniel_w" height="30" width="40" /></a>
 <a href="https://twitter.com/daniel_wesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daniel_wesh" height="30" width="40" /></a>
