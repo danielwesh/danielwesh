@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="400" src="https://github.com/danielwesh/danielwesh/blob/main/header.png">
-<h3 align="left">A passionate Full Stack Developer from Kenya</h3>
+<h3 align="left">A passionate Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **NodeJS, React**
 
