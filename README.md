@@ -1,7 +1,4 @@
-  <img align="right" alt="Coding" width="400" src="https://github.com/danielwesh/danielwesh/blob/main/header.png">
-
-
-<h1 align="center">Hi 👋, I'm Daniel Waweru</h1>
+<img align="center" alt="Coding" width="400" src="https://github.com/danielwesh/danielwesh/blob/main/header.png">
 <h3 align="center">A passionate Full Stack Developer from Kenya</h3>
 
 - 🌱 I’m currently learning **NodeJS, React**
