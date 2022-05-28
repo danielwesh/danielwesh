@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Daniel Waweru</h1>
+<h1 align="center">Hi 👋, I'm Daniel Waweru</h1>
 <h3 align="center">A passionate Full Stack Developer from Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/daniel_wesh" target="blank"><img src="https://img.shields.io/twitter/follow/daniel_wesh?logo=twitter&style=for-the-badge" alt="daniel_wesh" /></a> </p>
